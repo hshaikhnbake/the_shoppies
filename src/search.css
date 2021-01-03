@@ -1,0 +1,32 @@
+
+.search-container {
+  margin: 0 auto;
+}
+
+.search-icon {
+  position: absolute;
+  padding: 18px;
+  background-color: palegoldenrod; 
+  top: -18px;
+  right: 1px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+
+label {
+  position: relative;
+}
+
+
+input {
+  width: 80%;
+  padding: 21px;
+  font-size: 2rem;
+  border-radius: 8px;
+  border: 1px solid grey;
+}
+
+input:focus {
+  outline: none;
+}
